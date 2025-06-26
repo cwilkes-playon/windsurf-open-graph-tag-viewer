@@ -2,6 +2,8 @@
 
 A modern, stylish Nuxt.js application for analyzing and previewing Open Graph (OG) tags from any URL.
 
+![Application Screenshot](images/screenshot.png)
+
 ## Description
 
 Graph Inspector provides a beautiful and intuitive interface to see how social media platforms and search engines will interpret your web pages. Simply enter a URL, and the application will fetch and display all associated Open Graph data, including:
